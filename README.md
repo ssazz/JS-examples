@@ -1,1 +1,1 @@
-# JS-examples
+# Mirror of Internet {JS examples}
