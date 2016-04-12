@@ -1,4 +1,7 @@
 Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. They were called "template strings" in prior editions of the ES2015 / ES6 specification.
+###Content:
+*[Template literals from MDN](#template-literals-from-mdn)
+
 #[Template literals from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 ##Tagged template literals
 A more advanced form of template literals are tagged template literals. With them you are able to modify the output of template literals using a function. The first argument contains an array of string literals ("Hello " and " world" in this example). The second, and each argument after the first one, are the values of the processed (or sometimes called cooked) substitution expressions ("15" and "50" here). In the end, your function returns your manipulated string. There is nothing special about the name tag in the following example. The function name may be anything you want.
